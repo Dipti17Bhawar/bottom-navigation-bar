@@ -1,0 +1,12 @@
+       .bottom-nav{
+            background-color: aliceblue;
+             position:fixed;
+            bottom:50px;
+            border:solid gray 2px;
+         }
+         .icon{
+            height:60px;
+            width:60px;
+            margin:20px;
+            
+         }
